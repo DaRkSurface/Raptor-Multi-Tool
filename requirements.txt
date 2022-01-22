@@ -1,0 +1,7 @@
+colorama==0.4.3
+discord.py==1.7.3
+discum==1.4.0
+PyAutoGUI==0.9.53
+requests==2.22.0
+selenium==4.1.0
+websocket_client==1.2.3
